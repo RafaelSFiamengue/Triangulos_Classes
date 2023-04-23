@@ -1,6 +1,6 @@
-# # Titulo ou Arte do Projeto
+# # Area de trinagulo com classe
 ## Versão: 1.0 
-## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
 🔹 Descrição do projeto 
@@ -35,7 +35,7 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Calculo da area de dois triangulos e compara qual é maior, utilizando classes. 
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
@@ -50,22 +50,20 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 Link para teste da versão disponibilizada.
 
 ## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
 Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+- Compilador online de linguagem C++
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+Copiar o código e colar ele em um compilador online na linguagem C++
 
 ## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+Todos os testes foram realizados
 
 ## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+Salvo na extensão .cpp
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C++] (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 XML
 ...
