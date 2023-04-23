@@ -35,7 +35,7 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Calculo que calcula as areas de dois triângulos através de funções e compara qual é maior
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
@@ -50,19 +50,17 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 Link para teste da versão disponibilizada.
 
 ## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
 Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+- Qualquer compilador online da linguagem C++.
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+Roda em qualquer compilador online na linguagem C++, basta copiar o código e coloca-lo no compilador online.
 
 ## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+Teste realizados em um compilador online para calcular area de triangulos, comparando-as.
 
 ## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+Salvo na extensão .cpp
 
 ## Linguagens, dependencias e libs utilizadas 📚
 ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
