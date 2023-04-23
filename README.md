@@ -63,28 +63,22 @@ Teste realizados em um compilador online para calcular area de triangulos, compa
 Salvo na extensão .cpp
 
 ## Linguagens, dependencias e libs utilizadas 📚
-!https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 
 XML
 ...
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
+Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github.
 
 ## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+Todos os problemas foram resolvidos.
 
 ## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
+Todos os recursos foram inseridos.
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+Rafael Fiamengue
 
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ Ano - Area do Triangulo com funções
