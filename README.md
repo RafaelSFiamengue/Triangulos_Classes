@@ -1,4 +1,4 @@
-# # Area de trinagulo com classe
+# # Area de triangulo com classe
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído
 
@@ -81,4 +81,4 @@ Rafael Fiamengue
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Area de trinagulo com classe
+## Copyright ©️ Ano - Area de triangulo com classe
