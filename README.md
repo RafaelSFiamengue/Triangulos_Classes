@@ -63,6 +63,8 @@ Teste realizados em um compilador online para calcular area de triangulos, compa
 Salvo na extensão .cpp
 
 ## Linguagens, dependencias e libs utilizadas 📚
+![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 
 XML
