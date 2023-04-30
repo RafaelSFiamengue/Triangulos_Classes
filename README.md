@@ -40,11 +40,6 @@ Calculo da area de dois triangulos e compara qual é maior, utilizando classes.
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
 
-✔️ Funcionalidade 2
-
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
 
 ## Distribuição
 Link para teste da versão disponibilizada.
