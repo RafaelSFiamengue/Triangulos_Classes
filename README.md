@@ -40,11 +40,6 @@ Calculo que calcula as areas de dois triângulos através de funções e compara
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
 
-✔️ Funcionalidade 2
-
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
 
 ## Distribuição
 Link para teste da versão disponibilizada.
